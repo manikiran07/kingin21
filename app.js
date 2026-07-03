@@ -10,7 +10,7 @@
 // ==========================================================================
 // 1. CONFIGURATION (Paste your Google Apps Script Web App URL below)
 // ==========================================================================
-const BACKEND_API_URL = "YOUR_DEPLOYED_APPS_SCRIPT_WEB_APP_URL";
+const BACKEND_API_URL = "https://script.google.com/macros/s/AKfycbw3dckw-gAhWkJL6kLUKu-PfSHAptwI0tUS68fev92BIIbEsBjz7-blmuXjj9bAuxV2HQ/exec";
 
 // Verification check to help you get started
 function checkBackendConfig() {
