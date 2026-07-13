@@ -10,7 +10,7 @@
 // ==========================================================================
 // 1. CONFIGURATION (Paste your Google Apps Script Web App URL below)
 // ==========================================================================
-const BACKEND_API_URL = "https://script.google.com/macros/s/AKfycbw3dckw-gAhWkJL6kLUKu-PfSHAptwI0tUS68fev92BIIbEsBjz7-blmuXjj9bAuxV2HQ/exec";
+const BACKEND_API_URL = "https://script.google.com/macros/s/AKfycbz_J5W8xOt2TU2PKOcRbsBm4HmUkcc1Nzw6KEpE1E6AsdBV3S6nD4wqS0L9WJykxMuYZA/exec";
 
 // Verification check to help you get started
 function checkBackendConfig() {
